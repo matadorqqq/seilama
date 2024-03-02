@@ -1,0 +1,2 @@
+# seilama
+mainnet
